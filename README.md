@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @layuntaFelipe
+- 👋 Hi, I’m Felipe La Yunta
+- :mechanical_arm: Working as a IOS Developer by myself
 - 👀 I’m interested in IOS Development
-- 🌱 I’m currently learning IOS Development
-- 💞️ I’m looking to collaborate on IOS Development
+- 🌱 I’m currently learning SwiftUI
+- 💞️ I’m looking to work as a Entry Level IOS Developer
 - 📫 How to reach me email-me at layunta.felipe@gmail.com
 
 <!---
