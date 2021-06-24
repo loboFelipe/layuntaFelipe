@@ -1,13 +1,24 @@
-- 👋 Hi, I’m Felipe La Yunta!
-
-- :mechanical_arm: IOS Developer using Swift
+### Hi There! :wave:
+## I’m Felipe!, IOS Developer :apple::mechanical_arm:
 - 👀 I’m interested in IOS Development
 - 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to work as a Entry Level IOS Developer
+- <img
+  alt="United States"
+  src="http://purecatamphetamine.github.io/country-flag-icons/3x2/BR.svg"  width="19"/> I'm currently located in Brazil, but open to work anywhere in the :earth_americas:
+- 💞️ I’m looking to work as a Junior IOS Developer / Intern IOS Developer
 - 📫 How to reach me email-me at layunta.felipe@gmail.com
 - :racing_car: Fun fact... Some sundays are sacred to me because of Formula 1 :grin:
 
-<!---
-layuntaFelipe/layuntaFelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Connect with me:
+<a href="https://www.linkedin.com/in/felipe-la-yunta-1109221b5/" target="_blank">
+<img align="center" alt="felipe-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/felipe.code/" target="_blank">
+<img align="center" alt="felipe-instagram" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/instagram_share_story_connection_communication_icon_189222.png" style="max-width:100%;">
+</a>
+
+## My Skills
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png" alt="swift" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
+
