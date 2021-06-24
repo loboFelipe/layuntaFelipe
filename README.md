@@ -11,10 +11,13 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/felipe-la-yunta-1109221b5/" target="_blank">
-<img align="center" alt="felipe-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="felipe-linkedin" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/felipe.code/" target="_blank">
-<img align="center" alt="felipe-instagram" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/instagram_share_story_connection_communication_icon_189222.png" style="max-width:100%;">
+<img align="center" alt="felipe-instagram" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/instagram_share_story_connection_communication_icon_189222.png" style="max-width:100%;">
+</a>
+<a href="https://twitter.com/felipe_codee" target="_blank">
+<img align="center" alt="felipe-twitter" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/twitter_logo_icon_189230.png" style="max-width:100%;">
 </a>
 
 ## My Skills
