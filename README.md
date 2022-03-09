@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning SwiftUI
 - <img
   alt="United States"
-  src="http://purecatamphetamine.github.io/country-flag-icons/3x2/BR.svg"  width="19"/> I'm currently located in Brazil, but open to work anywhere in the :earth_americas:
+  src="http://purecatamphetamine.github.io/country-flag-icons/3x2/CA.svg"  width="19"/> I'm currently located in Canada, but open to work anywhere in the :earth_americas:
 - 💞️ I’m looking to work as a Junior IOS Developer / Intern IOS Developer
 - 📫 How to reach me email-me at layunta.felipe@gmail.com
 - :racing_car: Fun fact... Some sundays are sacred to me because of Formula 1 :grin:
