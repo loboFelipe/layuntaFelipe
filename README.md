@@ -25,4 +25,6 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://www.pikpng.com/transpng/JwRoJT/" alt="python" width="40" height="40" style="max-width:100%;"></img>
 ##
