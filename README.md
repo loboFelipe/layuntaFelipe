@@ -16,9 +16,7 @@
 <a href="https://www.instagram.com/felipe_code2/" target="_blank">
 <img align="center" alt="felipe-instagram" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/instagram_share_story_connection_communication_icon_189222.png" style="max-width:100%;">
 </a>
-<a href="https://twitter.com/felipe_codee" target="_blank">
-<img align="center" alt="felipe-twitter" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/twitter_logo_icon_189230.png" style="max-width:100%;">
-</a>
+
 
 ## My Skills
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png" alt="swift" width="40" height="40" style="max-width:100%;"></img>
