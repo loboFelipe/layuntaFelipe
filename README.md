@@ -5,15 +5,15 @@
 - <img
   alt="United States"
   src="http://purecatamphetamine.github.io/country-flag-icons/3x2/CA.svg"  width="19"/> I'm currently located in Canada, but open to work anywhere in the :earth_americas:
-- 💞️ I’m looking to work as a Junior IOS Developer / Intern IOS Developer
-- 📫 How to reach me email-me at layunta.felipe@gmail.com
+- 💞️ I’m looking to work as a Junior Web Developer Job / Intern Web Developer Job
+- 📫 How to reach me email-me at layuntaweb@gmail.com
 - :racing_car: Fun fact... Some sundays are sacred to me because of Formula 1 :grin:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/felipe-la-yunta-1109221b5/" target="_blank">
 <img align="center" alt="felipe-linkedin" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="max-width:100%;">
 </a>
-<a href="https://www.instagram.com/felipe.code/" target="_blank">
+<a href="https://www.instagram.com/felipe_code2/" target="_blank">
 <img align="center" alt="felipe-instagram" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/instagram_share_story_connection_communication_icon_189222.png" style="max-width:100%;">
 </a>
 <a href="https://twitter.com/felipe_codee" target="_blank">
