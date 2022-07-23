@@ -1,5 +1,5 @@
 ### Hi There! :wave:
-## I’m Felipe!, Full Stack Developer :apple::mechanical_arm:
+## I’m Felipe!, Full Stack Developer :mechanical_arm:
 - 👀 I’m interested in Web Development / Full Stack
 - 🌱 I’m currently learning ReactJS
 - <img
