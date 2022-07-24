@@ -1,7 +1,7 @@
 ### Hi There! :wave:
 ## I’m Felipe!, Full Stack Developer :mechanical_arm:
 - 👀 I’m interested in Web Development / Full Stack
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS, MongoDB, Node.js
 - <img
   alt="United States"
   src="http://purecatamphetamine.github.io/country-flag-icons/3x2/CA.svg"  width="19"/> I'm currently located in Canada, but open to work anywhere in the :earth_americas:
