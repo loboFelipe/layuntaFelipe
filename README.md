@@ -23,7 +23,6 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://www.monetbil.com/support/wp-content/uploads/2021/01/java-logo-vector.png" alt="JAVA" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://img.icons8.com/color/344/css3.png" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://img.icons8.com/fluency/344/javascript.png" alt="Javascript" width="40" height="40" style="max-width:100%;"></img>
