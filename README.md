@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/felipe-la-yunta-1109221b5/" target="_blank">
 <img align="center" alt="felipe-linkedin" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="max-width:100%;">
 </a>
-<a href="https://www.instagram.com/felipe_code2/" target="_blank">
+<a href="https://www.instagram.com/felipelly/" target="_blank">
 <img align="center" alt="felipe-instagram" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/instagram_share_story_connection_communication_icon_189222.png" style="max-width:100%;">
 </a>
 
